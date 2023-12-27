@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head{
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(111, 203, 209);
+}
+
+
+input[type="text"] {
+    text-align: center; 
+    padding: 10px;
+    background-color: rgb(111, 203, 209);
+}
+
+.first input{
+    margin-top: 5%;
+    margin-bottom: 40px;
+    width: 40%;
+    height: 30px;
+    border-radius: 40px;
+    padding: 25px;
+}
+
+.sub{
+    margin: 20px;
+    border-radius: 40px;
+    padding: 20px;
+    background-color: rgb(174, 215, 218);
+}
+
+.sub:hover{
+    background-color: rgb(39, 177, 187);
+}
+
+.del{
+    margin: 20px;
+    border-radius: 40px;
+    padding: 20px;
+    background-color: rgb(174, 215, 218);
+}
+
+.del:hover{
+    background-color: rgb(39, 177, 187);
+}
+
+
+.btn{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(96, 192, 199);
+    color: black;
+    padding: 25px;
+    margin-top: 20%;
+}
+
+.output{
+    margin-left: 38%;
+}
+
+h2{
+    margin-left: 40px;
+    color: rgb(39, 177, 187);
+}
+
